@@ -1,5 +1,5 @@
 ## Hi there, I'm Mizael Pereira  👋
-[![Website](https://www.flaticon.com/svg/static/icons/svg/893/893505.svg)](website){:target="_blank"}
+[![Website](Portfolio)](https://mizaelp.github.io/portfolio/){:target="_blank"}
 
 ### I'm a Web Developer and musician!!
 
