@@ -1,5 +1,5 @@
 ## Hi there, I'm Mizael Pereira  👋
-[![Website](Portfolio)](https://mizaelp.github.io/portfolio/)
+[Portfolio][website]
 
 ### I'm a Web Developer and musician!!
 
