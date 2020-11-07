@@ -1,7 +1,7 @@
 ## Hi there, I'm Mizael Pereira  👋
 [Portfolio][website]
 
-### I'm a Web Developer and musician!!
+### I'm a Web Developer and musician
 
 ### Connect with me:
 
@@ -12,5 +12,5 @@
 <br />
 
 [website]: https://mizaelp.github.io/portfolio/
-[instagram]: https://www.instagram.com/w4_mizael/
+[instagram]: https://www.instagram.com/mizael_code/
 [linkedin]: https://www.linkedin.com/in/mizael-pereira/
