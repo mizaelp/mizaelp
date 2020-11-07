@@ -11,6 +11,6 @@
 <br />
 <br />
 
-[website]: https://mizaelp.github.io/portfolio/
+[website]: https://mizaelp.github.io
 [instagram]: https://www.instagram.com/mizael_code/
 [linkedin]: https://www.linkedin.com/in/mizael-pereira/
