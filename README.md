@@ -12,5 +12,5 @@
 <br />
 
 [website]: https://mizaelp.github.io
-[instagram]: https://www.instagram.com/mizael_code/
+[instagram]: https://www.instagram.com/_mizael_pereira_
 [linkedin]: https://www.linkedin.com/in/mizael-pereira/
