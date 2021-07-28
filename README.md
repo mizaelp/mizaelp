@@ -1,7 +1,6 @@
 ## Hi there, I'm Mizael Pereira  👋
 
-### I'm a Front End developer with experience building web applications for Cybersecurity and Computer Aided Engineering companies. I specialize in JavaScript and have professional experience working with Angular. I also have knowledge in HTML5, CSS3 (Flexbox, Grid), Git, Linux, Node, Python, React and Vue.
-
+### I'm a Front End developer with experience building web applications for Cybersecurity and Computer Aided Engineering companies.
 ### 💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
