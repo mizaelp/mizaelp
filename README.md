@@ -1,8 +1,7 @@
 ## Hi there, I'm Mizael Pereira  👋
 
 ### I'm a Front End developer with experience building web applications for Cybersecurity and Computer Aided Engineering companies.
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizaelp&show_icons=true&theme=radical)
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mizaelp)
+  ![Mizael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizaelp&show_icons=true&theme=radical)
 <div align="center"><br>
   <img align="center" alt="mizaelp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mizaelp-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
